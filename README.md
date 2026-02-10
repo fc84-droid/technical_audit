@@ -18,7 +18,7 @@ pip install requests beautifulsoup4
 ⚡ How to Run
 Simply provide your sitemap URL. The script will handle the crawling and parsing.
 
-python technical_seo_auditor.py --sitemap https://imfrancisco.com/sitemap.xml
+python technical_seo_auditor.py --sitemap https://example.com/sitemap_index.xml
 
 📊 The Output Report
 The script generates a CSV with the following diagnostic columns:
